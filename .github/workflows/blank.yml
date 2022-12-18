@@ -31,7 +31,7 @@ jobs:
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7                               # Limit recently used stats to last week
-          commits_authoring: niccolofato13@gmail.com      # Surnames or email addresses used to identify your commits
+          commits_authoring: iayanami     # Surnames or email addresses used to identify your commits
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
